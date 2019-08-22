@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSeeker", "EventSeeker\EventSeeker.csproj", "{BEFB9A5F-D8A8-4A6E-A605-7C20CC4E4FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsEvents", "WinFormsEvents\WinFormsEvents.csproj", "{08B1B5D0-26ED-4B61-B336-3055D7776217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFB9A5F-D8A8-4A6E-A605-7C20CC4E4FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFB9A5F-D8A8-4A6E-A605-7C20CC4E4FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFB9A5F-D8A8-4A6E-A605-7C20CC4E4FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFB9A5F-D8A8-4A6E-A605-7C20CC4E4FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B1B5D0-26ED-4B61-B336-3055D7776217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B1B5D0-26ED-4B61-B336-3055D7776217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B1B5D0-26ED-4B61-B336-3055D7776217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B1B5D0-26ED-4B61-B336-3055D7776217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8248121-7F42-4CC4-A8E2-F8D52F949036}
+	EndGlobalSection
+EndGlobal
